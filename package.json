@@ -1,0 +1,19 @@
+{
+  "name": "month-polyfill",
+  "version": "1.0.0",
+  "description": "This is a polyfill for implementing the HTML5 `<input type=\"month\">` element in browsers that do not currently support it.",
+  "main": "month-polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoqf/month-polyfill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taoqf/month-polyfill/issues"
+  },
+  "homepage": "https://github.com/taoqf/month-polyfill#readme"
+}
