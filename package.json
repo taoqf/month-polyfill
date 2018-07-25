@@ -2,7 +2,7 @@
   "name": "month-polyfill",
   "version": "1.0.0",
   "description": "This is a polyfill for implementing the HTML5 `<input type=\"month\">` element in browsers that do not currently support it.",
-  "main": "month-polyfill.js",
+  "main": "month-polyfill.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
